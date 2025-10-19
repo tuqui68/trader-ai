@@ -1,0 +1,10 @@
+digest: 2a98cc43
+name: dataset
+profile: '{"num_rows": 2012, "num_elements": 10060}'
+schema: '{"mlflow_colspec": [{"type": "double", "name": ["SMA20", ""], "required":
+  true}, {"type": "double", "name": ["SMA100", ""], "required": true}, {"type": "double",
+  "name": ["SMA200", ""], "required": true}, {"type": "double", "name": ["RSI", ""],
+  "required": true}, {"type": "double", "name": ["ATR", ""], "required": true}]}'
+source: '{"tags": {"mlflow.user": "tuqui", "mlflow.source.name": "train.py", "mlflow.source.type":
+  "LOCAL"}}'
+source_type: code

@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/0/a1aec9c88e1d41e0914af09729bb3fca/artifacts
+end_time: 1760656896603
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: a1aec9c88e1d41e0914af09729bb3fca
+run_name: abrasive-wolf-848
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1760656867420
+status: 4
+tags: []
+user_id: tuqui
